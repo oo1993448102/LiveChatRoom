@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="I:\TestMob04\TestMob\redpacketlibrary\build\intermediates\exploded-aar\TestMob\easeUI\unspecified\assets"/></dataSet><dataSet config="debug"><source path="I:\TestMob04\TestMob\redpacketlibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="I:\TestMob04\TestMob\redpacketlibrary\src\androidTest\assets"/><source path="I:\TestMob04\TestMob\redpacketlibrary\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

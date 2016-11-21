@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="I:\TestMob04\TestMob\redpacketlibrary\assets"/><source path="I:\TestMob04\TestMob\redpacketlibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="I:\TestMob04\TestMob\redpacketlibrary\build-types\debug\assets"/></dataSet></merger>

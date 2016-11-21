@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EaseMob/EaseMob.iml" filepath="$PROJECT_DIR$/EaseMob/EaseMob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui/EaseUI.iml" filepath="$PROJECT_DIR$/easeui/EaseUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mob/Mob.iml" filepath="$PROJECT_DIR$/Mob/Mob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMob.iml" filepath="$PROJECT_DIR$/TestMob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpacketlibrary/redpacketlibrary.iml" filepath="$PROJECT_DIR$/redpacketlibrary/redpacketlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ulive-android-sdk/ulive-android-sdk.iml" filepath="$PROJECT_DIR$/ulive-android-sdk/ulive-android-sdk.iml" />
+    </modules>
+  </component>
+</project>
